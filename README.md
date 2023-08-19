@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Pandey</h1>
-<h3 align="center">A passionate in making Software Engineer from India</h3>
+<h3 align="center">A Computer Science Student and a Passionate Software Engineer in making</h3>
 
 
 
