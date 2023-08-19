@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kunal Pandey</h1>
 <h3 align="center">A passionate in making Software Engineer from India</h3>
 
-  <img align="justify" alt="coding" width="400" src="<div style="width:100%;height:0;padding-bottom:67%;position:relative;"><iframe src="https://giphy.com/embed/QHE5gWI0QjqF2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/batman-arkham-footage-QHE5gWI0QjqF2">via GIPHY</a></p>">
+<div style="width:100%;height:0;padding-bottom:67%;position:relative;"><iframe src="https://giphy.com/embed/QHE5gWI0QjqF2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/batman-arkham-footage-QHE5gWI0QjqF2">via GIPHY</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalpandey1&label=Profile%20views&color=0e75b6&style=flat" alt="kunalpandey1" /> </p>
 
